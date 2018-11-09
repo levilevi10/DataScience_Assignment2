@@ -1,0 +1,2 @@
+# DataScience_Assignment2
+Assignment 2, Python: Tuples Sets Dictionary Object Basics Dictionary Object Methods Dictionary View Objects Functions Basics Parameter Passing Iterators Generator Functions Lambda Functions Map Reduce Filter Functions OOPS Basic Concepts Creating Classes And Objects Inheritance Multiple Inheritance Working With Files Reading And Writing Files Buffered Read And Write Other File Methods
